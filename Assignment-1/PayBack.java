@@ -3,7 +3,9 @@ package sample1;
 public class PayBack {
 	
 	public static void main(String args[]) {
-		System.out.println(payBack(1400));
+		System.out.println(payBack(2000));
+	        System.out.println(payBack(2600));
+
 	}
 	
 	static float payBack(int amount) {
