@@ -44,6 +44,3 @@ public class Contact {
 		return false;
 	}
 }
-class Date{
-	int year, month, day;
-}
